@@ -1,5 +1,8 @@
 # Heart-disease-predictor
 Heart disease prediction using machine learning Logistic regression algorithm to predict whether a person has a heart disease or not.
+
+![image](https://github.com/aniketkeshri12/Heart-disease-predictor/assets/67973829/f9f6f0bb-8848-4f37-860c-2610b4042198)
+
 LOGISTIC REGRESSION - HEART DISEASE PREDICTION
 
 Introduction
